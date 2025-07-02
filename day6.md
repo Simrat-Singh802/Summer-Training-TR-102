@@ -1,4 +1,5 @@
 Daily Diary – Day 6
+2 July 2025
 
  Topic: Encapsulation, Name Mangling, Exception Handling
  Date: 2nd July 2025
