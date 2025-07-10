@@ -1,4 +1,5 @@
 Daily Diary – Day 12
+
 Date: 10th July 2025
 
 Topic Covered: Basics of Seaborn (Data Visualization in Python)
